@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config>
+<app>
     <server>
         <port>10891</port>
     </server>
     <sql>
-        <host></host>
-        <port></port>
-        <dbname><dbname>
-        <user></user>
+        <host>127.0.0.1</host>
+        <port>5432</port>
+        <dbname>python_web_db</dbname>
+        <user>root</user>
         <pass></pass>
-    <sql>
-</config>
+    </sql>
+</app>
