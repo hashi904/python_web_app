@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <server>
+        <port>10891</port>
+    </server>
+    <sql>
+        <host></host>
+        <port></port>
+        <dbname><dbname>
+        <user></user>
+        <pass></pass>
+    <sql>
+</config>
